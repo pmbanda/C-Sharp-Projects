@@ -1,0 +1,6 @@
+H:\C#\Chapter7\Desks\bin\Debug\Desks.exe.config
+H:\C#\Chapter7\Desks\bin\Debug\Desks.exe
+H:\C#\Chapter7\Desks\bin\Debug\Desks.pdb
+H:\C#\Chapter7\Desks\obj\Debug\Desks.exe
+H:\C#\Chapter7\Desks\obj\Debug\Desks.pdb
+H:\C#\Chapter7\Desks\obj\Debug\Desks.csprojResolveAssemblyReference.cache

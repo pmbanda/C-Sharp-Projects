@@ -1,0 +1,6 @@
+H:\C#\Projects\ExceptionsDeal\bin\Debug\ExceptionsDeal.exe.config
+H:\C#\Projects\ExceptionsDeal\obj\Debug\ExceptionsDeal.csprojResolveAssemblyReference.cache
+H:\C#\Projects\ExceptionsDeal\bin\Debug\ExceptionsDeal.exe
+H:\C#\Projects\ExceptionsDeal\bin\Debug\ExceptionsDeal.pdb
+H:\C#\Projects\ExceptionsDeal\obj\Debug\ExceptionsDeal.exe
+H:\C#\Projects\ExceptionsDeal\obj\Debug\ExceptionsDeal.pdb

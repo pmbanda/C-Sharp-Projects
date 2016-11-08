@@ -1,0 +1,6 @@
+H:\C#\Projects\CreateStudent3\bin\Debug\CreateStudent3.exe.config
+H:\C#\Projects\CreateStudent3\bin\Debug\CreateStudent3.exe
+H:\C#\Projects\CreateStudent3\bin\Debug\CreateStudent3.pdb
+H:\C#\Projects\CreateStudent3\obj\Debug\CreateStudent3.csprojResolveAssemblyReference.cache
+H:\C#\Projects\CreateStudent3\obj\Debug\CreateStudent3.exe
+H:\C#\Projects\CreateStudent3\obj\Debug\CreateStudent3.pdb

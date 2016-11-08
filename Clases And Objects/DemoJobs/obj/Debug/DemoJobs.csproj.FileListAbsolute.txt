@@ -1,0 +1,6 @@
+H:\C#\Chapter9\DemoJobs\bin\Debug\DemoJobs.exe.config
+H:\C#\Chapter9\DemoJobs\bin\Debug\DemoJobs.exe
+H:\C#\Chapter9\DemoJobs\bin\Debug\DemoJobs.pdb
+H:\C#\Chapter9\DemoJobs\obj\Debug\DemoJobs.csprojResolveAssemblyReference.cache
+H:\C#\Chapter9\DemoJobs\obj\Debug\DemoJobs.exe
+H:\C#\Chapter9\DemoJobs\obj\Debug\DemoJobs.pdb

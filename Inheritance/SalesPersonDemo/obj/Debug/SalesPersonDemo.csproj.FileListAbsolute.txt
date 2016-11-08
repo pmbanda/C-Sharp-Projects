@@ -1,0 +1,6 @@
+H:\C#\Chapter10\SalesPersonDemo\bin\Debug\SalesPersonDemo.exe.config
+H:\C#\Chapter10\SalesPersonDemo\bin\Debug\SalesPersonDemo.exe
+H:\C#\Chapter10\SalesPersonDemo\bin\Debug\SalesPersonDemo.pdb
+H:\C#\Chapter10\SalesPersonDemo\obj\Debug\SalesPersonDemo.csprojResolveAssemblyReference.cache
+H:\C#\Chapter10\SalesPersonDemo\obj\Debug\SalesPersonDemo.exe
+H:\C#\Chapter10\SalesPersonDemo\obj\Debug\SalesPersonDemo.pdb

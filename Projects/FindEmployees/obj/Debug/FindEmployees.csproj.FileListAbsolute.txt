@@ -1,0 +1,6 @@
+H:\C#\Projects\FindEmployees\bin\Debug\FindEmployees.exe.config
+H:\C#\Projects\FindEmployees\bin\Debug\FindEmployees.exe
+H:\C#\Projects\FindEmployees\bin\Debug\FindEmployees.pdb
+H:\C#\Projects\FindEmployees\obj\Debug\FindEmployees.csprojResolveAssemblyReference.cache
+H:\C#\Projects\FindEmployees\obj\Debug\FindEmployees.exe
+H:\C#\Projects\FindEmployees\obj\Debug\FindEmployees.pdb

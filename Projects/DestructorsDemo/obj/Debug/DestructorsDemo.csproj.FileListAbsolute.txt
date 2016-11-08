@@ -1,0 +1,6 @@
+H:\C#\Projects\DestructorsDemo\bin\Debug\DestructorsDemo.exe.config
+H:\C#\Projects\DestructorsDemo\bin\Debug\DestructorsDemo.exe
+H:\C#\Projects\DestructorsDemo\bin\Debug\DestructorsDemo.pdb
+H:\C#\Projects\DestructorsDemo\obj\Debug\DestructorsDemo.csprojResolveAssemblyReference.cache
+H:\C#\Projects\DestructorsDemo\obj\Debug\DestructorsDemo.exe
+H:\C#\Projects\DestructorsDemo\obj\Debug\DestructorsDemo.pdb

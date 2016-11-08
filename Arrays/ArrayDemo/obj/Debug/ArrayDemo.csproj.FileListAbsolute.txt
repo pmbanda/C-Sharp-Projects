@@ -1,0 +1,6 @@
+H:\C#\Chapter6\ArrayDemo\bin\Debug\ArrayDemo.exe.config
+H:\C#\Chapter6\ArrayDemo\bin\Debug\ArrayDemo.exe
+H:\C#\Chapter6\ArrayDemo\bin\Debug\ArrayDemo.pdb
+H:\C#\Chapter6\ArrayDemo\obj\Debug\ArrayDemo.csprojResolveAssemblyReference.cache
+H:\C#\Chapter6\ArrayDemo\obj\Debug\ArrayDemo.exe
+H:\C#\Chapter6\ArrayDemo\obj\Debug\ArrayDemo.pdb

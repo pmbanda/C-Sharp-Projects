@@ -1,0 +1,9 @@
+H:\C#\Chapter4\Admission\bin\Debug\Admission.exe.config
+H:\C#\Chapter4\Admission\bin\Debug\Admission.exe
+H:\C#\Chapter4\Admission\bin\Debug\Admission.pdb
+H:\C#\Chapter4\Admission\obj\Debug\Admission.csprojResolveAssemblyReference.cache
+H:\C#\Chapter4\Admission\obj\Debug\Admission.myForm.resources
+H:\C#\Chapter4\Admission\obj\Debug\Admission.Properties.Resources.resources
+H:\C#\Chapter4\Admission\obj\Debug\Admission.csproj.GenerateResource.Cache
+H:\C#\Chapter4\Admission\obj\Debug\Admission.exe
+H:\C#\Chapter4\Admission\obj\Debug\Admission.pdb

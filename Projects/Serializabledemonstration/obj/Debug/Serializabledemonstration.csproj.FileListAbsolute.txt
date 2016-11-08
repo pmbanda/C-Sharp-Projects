@@ -1,0 +1,6 @@
+H:\C#\Projects\Serializabledemonstration\bin\Debug\Serializabledemonstration.exe.config
+H:\C#\Projects\Serializabledemonstration\bin\Debug\Serializabledemonstration.exe
+H:\C#\Projects\Serializabledemonstration\bin\Debug\Serializabledemonstration.pdb
+H:\C#\Projects\Serializabledemonstration\obj\Debug\Serializabledemonstration.csprojResolveAssemblyReference.cache
+H:\C#\Projects\Serializabledemonstration\obj\Debug\Serializabledemonstration.exe
+H:\C#\Projects\Serializabledemonstration\obj\Debug\Serializabledemonstration.pdb

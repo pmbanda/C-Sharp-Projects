@@ -1,0 +1,6 @@
+H:\C#\Chapter7\ConvertQuartsToLiters\bin\Debug\ConvertQuartsToLiters.exe.config
+H:\C#\Chapter7\ConvertQuartsToLiters\bin\Debug\ConvertQuartsToLiters.exe
+H:\C#\Chapter7\ConvertQuartsToLiters\bin\Debug\ConvertQuartsToLiters.pdb
+H:\C#\Chapter7\ConvertQuartsToLiters\obj\Debug\ConvertQuartsToLiters.csprojResolveAssemblyReference.cache
+H:\C#\Chapter7\ConvertQuartsToLiters\obj\Debug\ConvertQuartsToLiters.exe
+H:\C#\Chapter7\ConvertQuartsToLiters\obj\Debug\ConvertQuartsToLiters.pdb

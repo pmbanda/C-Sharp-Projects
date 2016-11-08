@@ -1,0 +1,15 @@
+C:\Users\pm0952513\Documents\TestApp\myApp\bin\Debug\myApp.dll
+C:\Users\pm0952513\Documents\TestApp\myApp\bin\Debug\myApp.pdb
+C:\Users\pm0952513\Documents\TestApp\myApp\bin\Debug\myApp.myApp.apk
+C:\Users\pm0952513\Documents\TestApp\myApp\bin\Debug\myApp.myApp-Signed.apk
+C:\Users\pm0952513\Documents\TestApp\myApp\obj\Debug\myApp.csprojResolveAssemblyReference.cache
+C:\Users\pm0952513\Documents\TestApp\myApp\obj\Debug\myApp.dll
+C:\Users\pm0952513\Documents\TestApp\myApp\obj\Debug\myApp.pdb
+C:\Users\pm0952513\Documents\TestApp\myApp\obj\Debug\android\bin\myApp.myApp.apk
+C:\Users\pm0952513\Documents\TestApp\myApp\obj\Debug\res\layout\main.xml
+C:\Users\pm0952513\Documents\TestApp\myApp\obj\Debug\res\values\strings.xml
+C:\Users\pm0952513\Documents\TestApp\myApp\obj\Debug\res\drawable\icon.png
+C:\Users\pm0952513\Documents\TestApp\myApp\obj\Debug\R.cs.flag
+C:\Users\pm0952513\Documents\TestApp\myApp\obj\Debug\uploadflags.txt
+C:\Users\pm0952513\Documents\TestApp\myApp\obj\Debug\myApp.dll.mdb
+C:\Users\pm0952513\Documents\TestApp\myApp\bin\Debug\myApp.dll.mdb

@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/RunConfigs/Active/@EntryValue">D7191401E9B6D347A2A21AA51B3E50B8</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=D7191401E9B6D347A2A21AA51B3E50B8/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=D7191401E9B6D347A2A21AA51B3E50B8/Name/@EntryValue">HomeSales</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=D7191401E9B6D347A2A21AA51B3E50B8/ProjectGuid/@EntryValue">F956F74CCC5F6D49B37D4BDA3CAFD80E</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=D7191401E9B6D347A2A21AA51B3E50B8/Type/@EntryValue">project</s:String>
+	<s:Boolean x:Key="/Default/VsIntegrationViewOptions/FilterSnapshotsBySolution/@EntryValue">True</s:Boolean></wpf:ResourceDictionary>

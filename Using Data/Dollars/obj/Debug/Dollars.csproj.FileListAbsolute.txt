@@ -1,0 +1,6 @@
+H:\C#\Chapter2\Dollars\bin\Debug\Dollars.exe.config
+H:\C#\Chapter2\Dollars\bin\Debug\Dollars.exe
+H:\C#\Chapter2\Dollars\bin\Debug\Dollars.pdb
+H:\C#\Chapter2\Dollars\obj\Debug\Dollars.csprojResolveAssemblyReference.cache
+H:\C#\Chapter2\Dollars\obj\Debug\Dollars.exe
+H:\C#\Chapter2\Dollars\obj\Debug\Dollars.pdb

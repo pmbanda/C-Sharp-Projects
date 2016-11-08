@@ -1,0 +1,5 @@
+c:\users\pm0952513\documents\visual studio 2015\Projects\Lyrics\bin\Debug\Lyrics.exe.config
+c:\users\pm0952513\documents\visual studio 2015\Projects\Lyrics\bin\Debug\Lyrics.exe
+c:\users\pm0952513\documents\visual studio 2015\Projects\Lyrics\bin\Debug\Lyrics.pdb
+c:\users\pm0952513\documents\visual studio 2015\Projects\Lyrics\obj\Debug\Lyrics.exe
+c:\users\pm0952513\documents\visual studio 2015\Projects\Lyrics\obj\Debug\Lyrics.pdb

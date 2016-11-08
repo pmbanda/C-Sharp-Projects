@@ -1,0 +1,6 @@
+H:\C#\Chapter7\Multiplication\bin\Debug\Multiplication.exe.config
+H:\C#\Chapter7\Multiplication\bin\Debug\Multiplication.exe
+H:\C#\Chapter7\Multiplication\bin\Debug\Multiplication.pdb
+H:\C#\Chapter7\Multiplication\obj\Debug\Multiplication.csprojResolveAssemblyReference.cache
+H:\C#\Chapter7\Multiplication\obj\Debug\Multiplication.exe
+H:\C#\Chapter7\Multiplication\obj\Debug\Multiplication.pdb

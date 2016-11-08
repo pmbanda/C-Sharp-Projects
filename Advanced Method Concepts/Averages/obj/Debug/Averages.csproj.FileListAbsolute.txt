@@ -1,0 +1,6 @@
+H:\C#\Chapter8\Averages\bin\Debug\Averages.exe.config
+H:\C#\Chapter8\Averages\bin\Debug\Averages.exe
+H:\C#\Chapter8\Averages\bin\Debug\Averages.pdb
+H:\C#\Chapter8\Averages\obj\Debug\Averages.csprojResolveAssemblyReference.cache
+H:\C#\Chapter8\Averages\obj\Debug\Averages.exe
+H:\C#\Chapter8\Averages\obj\Debug\Averages.pdb

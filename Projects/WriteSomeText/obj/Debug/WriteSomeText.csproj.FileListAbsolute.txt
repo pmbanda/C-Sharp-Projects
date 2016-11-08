@@ -1,0 +1,6 @@
+H:\C#\Projects\WriteSomeText\bin\Debug\WriteSomeText.exe.config
+H:\C#\Projects\WriteSomeText\bin\Debug\WriteSomeText.exe
+H:\C#\Projects\WriteSomeText\bin\Debug\WriteSomeText.pdb
+H:\C#\Projects\WriteSomeText\obj\Debug\WriteSomeText.csprojResolveAssemblyReference.cache
+H:\C#\Projects\WriteSomeText\obj\Debug\WriteSomeText.exe
+H:\C#\Projects\WriteSomeText\obj\Debug\WriteSomeText.pdb

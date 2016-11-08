@@ -1,0 +1,6 @@
+H:\C#\Chapter9\TestClassifiedAd\bin\Debug\TestClassifiedAd.exe.config
+H:\C#\Chapter9\TestClassifiedAd\bin\Debug\TestClassifiedAd.exe
+H:\C#\Chapter9\TestClassifiedAd\bin\Debug\TestClassifiedAd.pdb
+H:\C#\Chapter9\TestClassifiedAd\obj\Debug\TestClassifiedAd.csprojResolveAssemblyReference.cache
+H:\C#\Chapter9\TestClassifiedAd\obj\Debug\TestClassifiedAd.exe
+H:\C#\Chapter9\TestClassifiedAd\obj\Debug\TestClassifiedAd.pdb

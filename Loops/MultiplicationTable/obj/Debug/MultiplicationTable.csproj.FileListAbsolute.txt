@@ -1,0 +1,6 @@
+H:\C#\Chapter5\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+H:\C#\Chapter5\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+H:\C#\Chapter5\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+H:\C#\Chapter5\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+H:\C#\Chapter5\MultiplicationTable\obj\Debug\MultiplicationTable.pdb
+H:\C#\Chapter5\MultiplicationTable\obj\Debug\MultiplicationTable.csprojResolveAssemblyReference.cache

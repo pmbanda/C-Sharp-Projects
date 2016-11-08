@@ -1,0 +1,6 @@
+H:\C#\Chapter6\ChatAWhile\bin\Debug\ChatAWhile.exe.config
+H:\C#\Chapter6\ChatAWhile\bin\Debug\ChatAWhile.exe
+H:\C#\Chapter6\ChatAWhile\bin\Debug\ChatAWhile.pdb
+H:\C#\Chapter6\ChatAWhile\obj\Debug\ChatAWhile.csprojResolveAssemblyReference.cache
+H:\C#\Chapter6\ChatAWhile\obj\Debug\ChatAWhile.exe
+H:\C#\Chapter6\ChatAWhile\obj\Debug\ChatAWhile.pdb

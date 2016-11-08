@@ -1,0 +1,9 @@
+H:\C#\Chapter12\FontSelector\bin\Debug\FontSelector.exe.config
+H:\C#\Chapter12\FontSelector\bin\Debug\FontSelector.exe
+H:\C#\Chapter12\FontSelector\bin\Debug\FontSelector.pdb
+H:\C#\Chapter12\FontSelector\obj\Debug\FontSelector.csprojResolveAssemblyReference.cache
+H:\C#\Chapter12\FontSelector\obj\Debug\FontSelector.frmFontSelector.resources
+H:\C#\Chapter12\FontSelector\obj\Debug\FontSelector.Properties.Resources.resources
+H:\C#\Chapter12\FontSelector\obj\Debug\FontSelector.csproj.GenerateResource.Cache
+H:\C#\Chapter12\FontSelector\obj\Debug\FontSelector.exe
+H:\C#\Chapter12\FontSelector\obj\Debug\FontSelector.pdb

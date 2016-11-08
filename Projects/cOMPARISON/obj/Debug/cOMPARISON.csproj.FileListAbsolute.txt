@@ -1,0 +1,6 @@
+H:\C#\Projects\cOMPARISON\bin\Debug\cOMPARISON.exe.config
+H:\C#\Projects\cOMPARISON\bin\Debug\cOMPARISON.exe
+H:\C#\Projects\cOMPARISON\bin\Debug\cOMPARISON.pdb
+H:\C#\Projects\cOMPARISON\obj\Debug\cOMPARISON.csprojResolveAssemblyReference.cache
+H:\C#\Projects\cOMPARISON\obj\Debug\cOMPARISON.exe
+H:\C#\Projects\cOMPARISON\obj\Debug\cOMPARISON.pdb

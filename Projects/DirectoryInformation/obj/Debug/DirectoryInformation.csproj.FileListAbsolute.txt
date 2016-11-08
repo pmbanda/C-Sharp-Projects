@@ -1,0 +1,5 @@
+H:\C#\Projects\DirectoryInformation\bin\Debug\DirectoryInformation.exe.config
+H:\C#\Projects\DirectoryInformation\bin\Debug\DirectoryInformation.exe
+H:\C#\Projects\DirectoryInformation\bin\Debug\DirectoryInformation.pdb
+H:\C#\Projects\DirectoryInformation\obj\Debug\DirectoryInformation.exe
+H:\C#\Projects\DirectoryInformation\obj\Debug\DirectoryInformation.pdb

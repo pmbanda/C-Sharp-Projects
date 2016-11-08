@@ -1,0 +1,6 @@
+c:\users\pm0952513\documents\visual studio 2015\Projects\BigLetter\bin\Debug\BigLetter.exe.config
+C:\Users\pm0952513\Documents\Visual Studio 2015\Projects\BigLetter\bin\Debug\BigLetter.exe
+C:\Users\pm0952513\Documents\Visual Studio 2015\Projects\BigLetter\bin\Debug\BigLetter.pdb
+C:\Users\pm0952513\Documents\Visual Studio 2015\Projects\BigLetter\obj\Debug\BigLetter.csprojResolveAssemblyReference.cache
+C:\Users\pm0952513\Documents\Visual Studio 2015\Projects\BigLetter\obj\Debug\BigLetter.exe
+C:\Users\pm0952513\Documents\Visual Studio 2015\Projects\BigLetter\obj\Debug\BigLetter.pdb

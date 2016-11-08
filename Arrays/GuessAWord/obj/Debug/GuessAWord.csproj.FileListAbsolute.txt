@@ -1,0 +1,6 @@
+H:\C#\Chapter6\GuessAWord\bin\Debug\GuessAWord.exe.config
+H:\C#\Chapter6\GuessAWord\bin\Debug\GuessAWord.exe
+H:\C#\Chapter6\GuessAWord\bin\Debug\GuessAWord.pdb
+H:\C#\Chapter6\GuessAWord\obj\Debug\GuessAWord.csprojResolveAssemblyReference.cache
+H:\C#\Chapter6\GuessAWord\obj\Debug\GuessAWord.exe
+H:\C#\Chapter6\GuessAWord\obj\Debug\GuessAWord.pdb

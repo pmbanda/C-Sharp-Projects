@@ -1,0 +1,6 @@
+H:\C#\Chapter11\OrderExceptionDemo\bin\Debug\OrderExceptionDemo.exe.config
+H:\C#\Chapter11\OrderExceptionDemo\bin\Debug\OrderExceptionDemo.exe
+H:\C#\Chapter11\OrderExceptionDemo\bin\Debug\OrderExceptionDemo.pdb
+H:\C#\Chapter11\OrderExceptionDemo\obj\Debug\OrderExceptionDemo.csprojResolveAssemblyReference.cache
+H:\C#\Chapter11\OrderExceptionDemo\obj\Debug\OrderExceptionDemo.exe
+H:\C#\Chapter11\OrderExceptionDemo\obj\Debug\OrderExceptionDemo.pdb

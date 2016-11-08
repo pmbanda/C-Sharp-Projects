@@ -1,0 +1,6 @@
+H:\C#\Chapter4\Lottery\bin\Debug\Lottery.exe.config
+H:\C#\Chapter4\Lottery\bin\Debug\Lottery.exe
+H:\C#\Chapter4\Lottery\bin\Debug\Lottery.pdb
+H:\C#\Chapter4\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+H:\C#\Chapter4\Lottery\obj\Debug\Lottery.exe
+H:\C#\Chapter4\Lottery\obj\Debug\Lottery.pdb

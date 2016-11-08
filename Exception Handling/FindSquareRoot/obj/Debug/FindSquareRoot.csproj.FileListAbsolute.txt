@@ -1,0 +1,6 @@
+H:\C#\Chapter11\FindSquareRoot\bin\Debug\FindSquareRoot.exe.config
+H:\C#\Chapter11\FindSquareRoot\bin\Debug\FindSquareRoot.exe
+H:\C#\Chapter11\FindSquareRoot\bin\Debug\FindSquareRoot.pdb
+H:\C#\Chapter11\FindSquareRoot\obj\Debug\FindSquareRoot.csprojResolveAssemblyReference.cache
+H:\C#\Chapter11\FindSquareRoot\obj\Debug\FindSquareRoot.exe
+H:\C#\Chapter11\FindSquareRoot\obj\Debug\FindSquareRoot.pdb

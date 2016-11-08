@@ -1,0 +1,9 @@
+H:\C#\Projects\GuiF\bin\Debug\GuiF.exe.config
+H:\C#\Projects\GuiF\bin\Debug\GuiF.exe
+H:\C#\Projects\GuiF\bin\Debug\GuiF.pdb
+H:\C#\Projects\GuiF\obj\Debug\GuiF.csprojResolveAssemblyReference.cache
+H:\C#\Projects\GuiF\obj\Debug\GuiF.Form1.resources
+H:\C#\Projects\GuiF\obj\Debug\GuiF.Properties.Resources.resources
+H:\C#\Projects\GuiF\obj\Debug\GuiF.csproj.GenerateResource.Cache
+H:\C#\Projects\GuiF\obj\Debug\GuiF.exe
+H:\C#\Projects\GuiF\obj\Debug\GuiF.pdb

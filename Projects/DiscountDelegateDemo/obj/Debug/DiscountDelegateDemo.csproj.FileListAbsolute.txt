@@ -1,0 +1,6 @@
+H:\C#\Projects\DiscountDelegateDemo\bin\Debug\DiscountDelegateDemo.exe.config
+H:\C#\Projects\DiscountDelegateDemo\bin\Debug\DiscountDelegateDemo.exe
+H:\C#\Projects\DiscountDelegateDemo\bin\Debug\DiscountDelegateDemo.pdb
+H:\C#\Projects\DiscountDelegateDemo\obj\Debug\DiscountDelegateDemo.csprojResolveAssemblyReference.cache
+H:\C#\Projects\DiscountDelegateDemo\obj\Debug\DiscountDelegateDemo.exe
+H:\C#\Projects\DiscountDelegateDemo\obj\Debug\DiscountDelegateDemo.pdb

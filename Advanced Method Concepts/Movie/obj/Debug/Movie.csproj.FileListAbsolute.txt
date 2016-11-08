@@ -1,0 +1,5 @@
+H:\C#\Chapter8\Movie\bin\Debug\Movie.exe.config
+H:\C#\Chapter8\Movie\bin\Debug\Movie.exe
+H:\C#\Chapter8\Movie\bin\Debug\Movie.pdb
+H:\C#\Chapter8\Movie\obj\Debug\Movie.exe
+H:\C#\Chapter8\Movie\obj\Debug\Movie.pdb

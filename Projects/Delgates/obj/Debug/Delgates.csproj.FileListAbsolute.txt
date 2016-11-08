@@ -1,0 +1,6 @@
+H:\C#\Projects\Delgates\bin\Debug\Delgates.exe.config
+H:\C#\Projects\Delgates\bin\Debug\Delgates.exe
+H:\C#\Projects\Delgates\bin\Debug\Delgates.pdb
+H:\C#\Projects\Delgates\obj\Debug\Delgates.csprojResolveAssemblyReference.cache
+H:\C#\Projects\Delgates\obj\Debug\Delgates.exe
+H:\C#\Projects\Delgates\obj\Debug\Delgates.pdb

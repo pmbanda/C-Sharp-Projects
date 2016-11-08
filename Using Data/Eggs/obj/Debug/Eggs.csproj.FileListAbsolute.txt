@@ -1,0 +1,6 @@
+H:\C#\Chapter2\Eggs\bin\Debug\Eggs.exe.config
+H:\C#\Chapter2\Eggs\bin\Debug\Eggs.exe
+H:\C#\Chapter2\Eggs\bin\Debug\Eggs.pdb
+H:\C#\Chapter2\Eggs\obj\Debug\Eggs.csprojResolveAssemblyReference.cache
+H:\C#\Chapter2\Eggs\obj\Debug\Eggs.exe
+H:\C#\Chapter2\Eggs\obj\Debug\Eggs.pdb

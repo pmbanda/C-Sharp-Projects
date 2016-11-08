@@ -1,0 +1,9 @@
+H:\C#\Projects\EventHandling\KeyUp\bin\Debug\KeyUp.exe.config
+H:\C#\Projects\EventHandling\KeyUp\bin\Debug\KeyUp.exe
+H:\C#\Projects\EventHandling\KeyUp\bin\Debug\KeyUp.pdb
+H:\C#\Projects\EventHandling\KeyUp\obj\Debug\KeyUp.csprojResolveAssemblyReference.cache
+H:\C#\Projects\EventHandling\KeyUp\obj\Debug\KeyUp.frmKeyUp.resources
+H:\C#\Projects\EventHandling\KeyUp\obj\Debug\KeyUp.Properties.Resources.resources
+H:\C#\Projects\EventHandling\KeyUp\obj\Debug\KeyUp.csproj.GenerateResource.Cache
+H:\C#\Projects\EventHandling\KeyUp\obj\Debug\KeyUp.exe
+H:\C#\Projects\EventHandling\KeyUp\obj\Debug\KeyUp.pdb

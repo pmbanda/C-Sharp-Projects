@@ -1,0 +1,6 @@
+H:\C#\Chapter2\Payroll\bin\Debug\Payroll.exe.config
+H:\C#\Chapter2\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+H:\C#\Chapter2\Payroll\bin\Debug\Payroll.exe
+H:\C#\Chapter2\Payroll\bin\Debug\Payroll.pdb
+H:\C#\Chapter2\Payroll\obj\Debug\Payroll.exe
+H:\C#\Chapter2\Payroll\obj\Debug\Payroll.pdb

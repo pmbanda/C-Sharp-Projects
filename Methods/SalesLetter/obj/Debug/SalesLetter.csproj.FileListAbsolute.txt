@@ -1,0 +1,5 @@
+H:\C#\Chapter7\SalesLetter\bin\Debug\SalesLetter.exe.config
+H:\C#\Chapter7\SalesLetter\bin\Debug\SalesLetter.exe
+H:\C#\Chapter7\SalesLetter\bin\Debug\SalesLetter.pdb
+H:\C#\Chapter7\SalesLetter\obj\Debug\SalesLetter.exe
+H:\C#\Chapter7\SalesLetter\obj\Debug\SalesLetter.pdb

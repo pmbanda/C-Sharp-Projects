@@ -1,0 +1,6 @@
+H:\C#\Projects\Pupils\bin\Debug\Pupils.exe.config
+H:\C#\Projects\Pupils\bin\Debug\Pupils.exe
+H:\C#\Projects\Pupils\bin\Debug\Pupils.pdb
+H:\C#\Projects\Pupils\obj\Debug\Pupils.csprojResolveAssemblyReference.cache
+H:\C#\Projects\Pupils\obj\Debug\Pupils.exe
+H:\C#\Projects\Pupils\obj\Debug\Pupils.pdb

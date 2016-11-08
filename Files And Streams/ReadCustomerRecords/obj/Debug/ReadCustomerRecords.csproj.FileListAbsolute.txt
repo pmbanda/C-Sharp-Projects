@@ -1,0 +1,12 @@
+E:\Ujah\C#\Chapter14\ReadCustomerRecords\bin\Debug\ReadCustomerRecords.exe.config
+E:\Ujah\C#\Chapter14\ReadCustomerRecords\bin\Debug\ReadCustomerRecords.exe
+E:\Ujah\C#\Chapter14\ReadCustomerRecords\bin\Debug\ReadCustomerRecords.pdb
+E:\Ujah\C#\Chapter14\ReadCustomerRecords\obj\Debug\ReadCustomerRecords.csprojResolveAssemblyReference.cache
+E:\Ujah\C#\Chapter14\ReadCustomerRecords\obj\Debug\ReadCustomerRecords.exe
+E:\Ujah\C#\Chapter14\ReadCustomerRecords\obj\Debug\ReadCustomerRecords.pdb
+H:\C#\Chapter14\ReadCustomerRecords\bin\Debug\ReadCustomerRecords.exe.config
+H:\C#\Chapter14\ReadCustomerRecords\obj\Debug\ReadCustomerRecords.exe
+H:\C#\Chapter14\ReadCustomerRecords\obj\Debug\ReadCustomerRecords.pdb
+H:\C#\Chapter14\ReadCustomerRecords\bin\Debug\ReadCustomerRecords.exe
+H:\C#\Chapter14\ReadCustomerRecords\bin\Debug\ReadCustomerRecords.pdb
+H:\C#\Chapter14\ReadCustomerRecords\obj\Debug\ReadCustomerRecords.csprojResolveAssemblyReference.cache

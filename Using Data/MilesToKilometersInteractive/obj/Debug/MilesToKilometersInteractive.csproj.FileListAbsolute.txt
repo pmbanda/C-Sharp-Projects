@@ -1,0 +1,6 @@
+H:\C#\Chapter2\MilesToKilometersInteractive\bin\Debug\MilesToKilometersInteractive.exe.config
+H:\C#\Chapter2\MilesToKilometersInteractive\bin\Debug\MilesToKilometersInteractive.exe
+H:\C#\Chapter2\MilesToKilometersInteractive\bin\Debug\MilesToKilometersInteractive.pdb
+H:\C#\Chapter2\MilesToKilometersInteractive\obj\Debug\MilesToKilometersInteractive.csprojResolveAssemblyReference.cache
+H:\C#\Chapter2\MilesToKilometersInteractive\obj\Debug\MilesToKilometersInteractive.exe
+H:\C#\Chapter2\MilesToKilometersInteractive\obj\Debug\MilesToKilometersInteractive.pdb

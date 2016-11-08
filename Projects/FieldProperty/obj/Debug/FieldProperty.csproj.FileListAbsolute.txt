@@ -1,0 +1,6 @@
+H:\C#\Projects\FieldProperty\bin\Debug\FieldProperty.exe.config
+H:\C#\Projects\FieldProperty\bin\Debug\FieldProperty.exe
+H:\C#\Projects\FieldProperty\bin\Debug\FieldProperty.pdb
+H:\C#\Projects\FieldProperty\obj\Debug\FieldProperty.csprojResolveAssemblyReference.cache
+H:\C#\Projects\FieldProperty\obj\Debug\FieldProperty.exe
+H:\C#\Projects\FieldProperty\obj\Debug\FieldProperty.pdb

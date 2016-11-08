@@ -1,0 +1,6 @@
+H:\C#\Projects\ParameterDemo2\bin\Debug\ParameterDemo2.exe.config
+H:\C#\Projects\ParameterDemo2\bin\Debug\ParameterDemo2.exe
+H:\C#\Projects\ParameterDemo2\bin\Debug\ParameterDemo2.pdb
+H:\C#\Projects\ParameterDemo2\obj\Debug\ParameterDemo2.csprojResolveAssemblyReference.cache
+H:\C#\Projects\ParameterDemo2\obj\Debug\ParameterDemo2.exe
+H:\C#\Projects\ParameterDemo2\obj\Debug\ParameterDemo2.pdb

@@ -1,0 +1,6 @@
+H:\C#\Projects\FileStatistics\bin\Debug\FileStatistics.exe.config
+H:\C#\Projects\FileStatistics\bin\Debug\FileStatistics.exe
+H:\C#\Projects\FileStatistics\bin\Debug\FileStatistics.pdb
+H:\C#\Projects\FileStatistics\obj\Debug\FileStatistics.csprojResolveAssemblyReference.cache
+H:\C#\Projects\FileStatistics\obj\Debug\FileStatistics.exe
+H:\C#\Projects\FileStatistics\obj\Debug\FileStatistics.pdb

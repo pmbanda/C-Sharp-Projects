@@ -1,0 +1,6 @@
+H:\C#\Projects\EventHandling\DelegatePrep\bin\Debug\DelegatePrep.exe.config
+H:\C#\Projects\EventHandling\DelegatePrep\bin\Debug\DelegatePrep.exe
+H:\C#\Projects\EventHandling\DelegatePrep\bin\Debug\DelegatePrep.pdb
+H:\C#\Projects\EventHandling\DelegatePrep\obj\Debug\DelegatePrep.csprojResolveAssemblyReference.cache
+H:\C#\Projects\EventHandling\DelegatePrep\obj\Debug\DelegatePrep.exe
+H:\C#\Projects\EventHandling\DelegatePrep\obj\Debug\DelegatePrep.pdb

@@ -1,0 +1,6 @@
+H:\C#\Chapter8\IntegerFacts\bin\Debug\IntegerFacts.exe.config
+H:\C#\Chapter8\IntegerFacts\bin\Debug\IntegerFacts.exe
+H:\C#\Chapter8\IntegerFacts\bin\Debug\IntegerFacts.pdb
+H:\C#\Chapter8\IntegerFacts\obj\Debug\IntegerFacts.csprojResolveAssemblyReference.cache
+H:\C#\Chapter8\IntegerFacts\obj\Debug\IntegerFacts.exe
+H:\C#\Chapter8\IntegerFacts\obj\Debug\IntegerFacts.pdb

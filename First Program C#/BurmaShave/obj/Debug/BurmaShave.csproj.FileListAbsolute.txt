@@ -1,0 +1,5 @@
+c:\users\pm0952513\documents\visual studio 2015\Projects\BurmaShave\bin\Debug\BurmaShave.exe.config
+c:\users\pm0952513\documents\visual studio 2015\Projects\BurmaShave\bin\Debug\BurmaShave.exe
+c:\users\pm0952513\documents\visual studio 2015\Projects\BurmaShave\bin\Debug\BurmaShave.pdb
+c:\users\pm0952513\documents\visual studio 2015\Projects\BurmaShave\obj\Debug\BurmaShave.exe
+c:\users\pm0952513\documents\visual studio 2015\Projects\BurmaShave\obj\Debug\BurmaShave.pdb

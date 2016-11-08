@@ -1,0 +1,6 @@
+H:\C#\Chapter6\DeliveryCharges\bin\Debug\DeliveryCharges.exe.config
+H:\C#\Chapter6\DeliveryCharges\bin\Debug\DeliveryCharges.exe
+H:\C#\Chapter6\DeliveryCharges\bin\Debug\DeliveryCharges.pdb
+H:\C#\Chapter6\DeliveryCharges\obj\Debug\DeliveryCharges.exe
+H:\C#\Chapter6\DeliveryCharges\obj\Debug\DeliveryCharges.pdb
+H:\C#\Chapter6\DeliveryCharges\obj\Debug\DeliveryCharges.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+H:\C#\Chapter12\CarDealer\bin\Debug\CarDealer.exe.config
+H:\C#\Chapter12\CarDealer\bin\Debug\CarDealer.exe
+H:\C#\Chapter12\CarDealer\bin\Debug\CarDealer.pdb
+H:\C#\Chapter12\CarDealer\obj\Debug\CarDealer.csprojResolveAssemblyReference.cache
+H:\C#\Chapter12\CarDealer\obj\Debug\CarDealer.Properties.Resources.resources
+H:\C#\Chapter12\CarDealer\obj\Debug\CarDealer.csproj.GenerateResource.Cache
+H:\C#\Chapter12\CarDealer\obj\Debug\CarDealer.exe
+H:\C#\Chapter12\CarDealer\obj\Debug\CarDealer.pdb
+H:\C#\Chapter12\CarDealer\obj\Debug\CarDealer.frmCarDealership.resources
+H:\C#\Chapter12\CarDealer\obj\Debug\CarDealer.frmBMW.resources
+H:\C#\Chapter12\CarDealer\obj\Debug\CarDealer.frmLexus.resources
+H:\C#\Chapter12\CarDealer\obj\Debug\CarDealer.frmMercedes.resources

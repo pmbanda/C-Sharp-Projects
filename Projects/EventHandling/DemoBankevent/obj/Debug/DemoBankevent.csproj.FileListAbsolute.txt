@@ -1,0 +1,6 @@
+H:\C#\Projects\EventHandling\DemoBankevent\bin\Debug\DemoBankevent.exe.config
+H:\C#\Projects\EventHandling\DemoBankevent\bin\Debug\DemoBankevent.exe
+H:\C#\Projects\EventHandling\DemoBankevent\bin\Debug\DemoBankevent.pdb
+H:\C#\Projects\EventHandling\DemoBankevent\obj\Debug\DemoBankevent.csprojResolveAssemblyReference.cache
+H:\C#\Projects\EventHandling\DemoBankevent\obj\Debug\DemoBankevent.exe
+H:\C#\Projects\EventHandling\DemoBankevent\obj\Debug\DemoBankevent.pdb

@@ -1,0 +1,9 @@
+H:\C#\Chapter3\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.exe.config
+H:\C#\Chapter3\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.exe
+H:\C#\Chapter3\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.pdb
+H:\C#\Chapter3\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.csprojResolveAssemblyReference.cache
+H:\C#\Chapter3\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.Form1.resources
+H:\C#\Chapter3\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.Properties.Resources.resources
+H:\C#\Chapter3\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.csproj.GenerateResource.Cache
+H:\C#\Chapter3\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.exe
+H:\C#\Chapter3\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.pdb

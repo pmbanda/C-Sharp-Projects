@@ -1,0 +1,5 @@
+H:\C#\Chapter7\VowelsModularized\bin\Debug\VowelsModularized.exe.config
+H:\C#\Chapter7\VowelsModularized\bin\Debug\VowelsModularized.exe
+H:\C#\Chapter7\VowelsModularized\bin\Debug\VowelsModularized.pdb
+H:\C#\Chapter7\VowelsModularized\obj\Debug\VowelsModularized.exe
+H:\C#\Chapter7\VowelsModularized\obj\Debug\VowelsModularized.pdb

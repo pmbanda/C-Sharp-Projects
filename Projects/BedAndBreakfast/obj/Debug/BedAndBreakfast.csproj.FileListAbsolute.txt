@@ -1,0 +1,12 @@
+H:\C#\Projects\BedAndBreakfast\bin\Debug\BedAndBreakfast.exe.config
+H:\C#\Projects\BedAndBreakfast\bin\Debug\BedAndBreakfast.exe
+H:\C#\Projects\BedAndBreakfast\bin\Debug\BedAndBreakfast.pdb
+H:\C#\Projects\BedAndBreakfast\obj\Debug\BedAndBreakfast.csprojResolveAssemblyReference.cache
+H:\C#\Projects\BedAndBreakfast\obj\Debug\BedAndBreakfast.BaileysForm.resources
+H:\C#\Projects\BedAndBreakfast\obj\Debug\BedAndBreakfast.Properties.Resources.resources
+H:\C#\Projects\BedAndBreakfast\obj\Debug\BedAndBreakfast.csproj.GenerateResource.Cache
+H:\C#\Projects\BedAndBreakfast\obj\Debug\BedAndBreakfast.exe
+H:\C#\Projects\BedAndBreakfast\obj\Debug\BedAndBreakfast.pdb
+H:\C#\Projects\BedAndBreakfast\obj\Debug\BedAndBreakfast.belleAireForm.resources
+H:\C#\Projects\BedAndBreakfast\obj\Debug\BedAndBreakfast.lincolnForm.resources
+H:\C#\Projects\BedAndBreakfast\obj\Debug\BedAndBreakfast.BreakfastOptionForm.resources

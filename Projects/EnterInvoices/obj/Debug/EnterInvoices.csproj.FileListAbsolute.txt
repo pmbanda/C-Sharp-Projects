@@ -1,0 +1,9 @@
+H:\C#\Projects\EnterInvoices\bin\Debug\EnterInvoices.exe.config
+H:\C#\Projects\EnterInvoices\bin\Debug\EnterInvoices.exe
+H:\C#\Projects\EnterInvoices\bin\Debug\EnterInvoices.pdb
+H:\C#\Projects\EnterInvoices\obj\Debug\EnterInvoices.csprojResolveAssemblyReference.cache
+H:\C#\Projects\EnterInvoices\obj\Debug\EnterInvoices.frmInvoice.resources
+H:\C#\Projects\EnterInvoices\obj\Debug\EnterInvoices.Properties.Resources.resources
+H:\C#\Projects\EnterInvoices\obj\Debug\EnterInvoices.csproj.GenerateResource.Cache
+H:\C#\Projects\EnterInvoices\obj\Debug\EnterInvoices.exe
+H:\C#\Projects\EnterInvoices\obj\Debug\EnterInvoices.pdb

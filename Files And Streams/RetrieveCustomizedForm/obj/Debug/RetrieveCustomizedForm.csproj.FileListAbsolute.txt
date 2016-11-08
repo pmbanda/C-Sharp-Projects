@@ -1,0 +1,9 @@
+H:\C#\Chapter14\RetrieveCustomizedForm\bin\Debug\RetrieveCustomizedForm.exe.config
+H:\C#\Chapter14\RetrieveCustomizedForm\bin\Debug\RetrieveCustomizedForm.exe
+H:\C#\Chapter14\RetrieveCustomizedForm\bin\Debug\RetrieveCustomizedForm.pdb
+H:\C#\Chapter14\RetrieveCustomizedForm\obj\Debug\RetrieveCustomizedForm.csprojResolveAssemblyReference.cache
+H:\C#\Chapter14\RetrieveCustomizedForm\obj\Debug\RetrieveCustomizedForm.frmImportSettings.resources
+H:\C#\Chapter14\RetrieveCustomizedForm\obj\Debug\RetrieveCustomizedForm.Properties.Resources.resources
+H:\C#\Chapter14\RetrieveCustomizedForm\obj\Debug\RetrieveCustomizedForm.csproj.GenerateResource.Cache
+H:\C#\Chapter14\RetrieveCustomizedForm\obj\Debug\RetrieveCustomizedForm.exe
+H:\C#\Chapter14\RetrieveCustomizedForm\obj\Debug\RetrieveCustomizedForm.pdb

@@ -1,0 +1,6 @@
+H:\C#\Projects\CreateNameFile\bin\Debug\CreateNameFile.exe.config
+H:\C#\Projects\CreateNameFile\bin\Debug\CreateNameFile.exe
+H:\C#\Projects\CreateNameFile\bin\Debug\CreateNameFile.pdb
+H:\C#\Projects\CreateNameFile\obj\Debug\CreateNameFile.csprojResolveAssemblyReference.cache
+H:\C#\Projects\CreateNameFile\obj\Debug\CreateNameFile.exe
+H:\C#\Projects\CreateNameFile\obj\Debug\CreateNameFile.pdb

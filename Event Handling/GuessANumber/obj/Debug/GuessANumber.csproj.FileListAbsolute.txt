@@ -1,0 +1,9 @@
+H:\C#\Chapter13\GuessANumber\bin\Debug\GuessANumber.exe.config
+H:\C#\Chapter13\GuessANumber\bin\Debug\GuessANumber.exe
+H:\C#\Chapter13\GuessANumber\bin\Debug\GuessANumber.pdb
+H:\C#\Chapter13\GuessANumber\obj\Debug\GuessANumber.csprojResolveAssemblyReference.cache
+H:\C#\Chapter13\GuessANumber\obj\Debug\GuessANumber.frmGuess.resources
+H:\C#\Chapter13\GuessANumber\obj\Debug\GuessANumber.Properties.Resources.resources
+H:\C#\Chapter13\GuessANumber\obj\Debug\GuessANumber.csproj.GenerateResource.Cache
+H:\C#\Chapter13\GuessANumber\obj\Debug\GuessANumber.exe
+H:\C#\Chapter13\GuessANumber\obj\Debug\GuessANumber.pdb

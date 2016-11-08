@@ -1,0 +1,10 @@
+1,Jamal Mansorry,2536
+2,Edwidge Gwanyama,3000
+3,Hella Awesome,60000
+4,Jamal Crawford,8000
+5,Dixie Cummings,5600
+6,Dwayne Johnson,3000
+7,Hunter Hunted,6000
+8,Lucky Merits,45621
+9,Lindsay Lohan,865
+10,Nancy Drew,9252

@@ -1,0 +1,12 @@
+E:\Ujah\C#\Chapter14\WriteCustomerRecords\bin\Debug\WriteCustomerRecords.exe.config
+E:\Ujah\C#\Chapter14\WriteCustomerRecords\bin\Debug\WriteCustomerRecords.exe
+E:\Ujah\C#\Chapter14\WriteCustomerRecords\bin\Debug\WriteCustomerRecords.pdb
+E:\Ujah\C#\Chapter14\WriteCustomerRecords\obj\Debug\WriteCustomerRecords.csprojResolveAssemblyReference.cache
+E:\Ujah\C#\Chapter14\WriteCustomerRecords\obj\Debug\WriteCustomerRecords.exe
+E:\Ujah\C#\Chapter14\WriteCustomerRecords\obj\Debug\WriteCustomerRecords.pdb
+H:\C#\Chapter14\WriteCustomerRecords\bin\Debug\WriteCustomerRecords.exe.config
+H:\C#\Chapter14\WriteCustomerRecords\obj\Debug\WriteCustomerRecords.exe
+H:\C#\Chapter14\WriteCustomerRecords\obj\Debug\WriteCustomerRecords.pdb
+H:\C#\Chapter14\WriteCustomerRecords\bin\Debug\WriteCustomerRecords.exe
+H:\C#\Chapter14\WriteCustomerRecords\bin\Debug\WriteCustomerRecords.pdb
+H:\C#\Chapter14\WriteCustomerRecords\obj\Debug\WriteCustomerRecords.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+H:\C#\Chapter5\SumInts\bin\Debug\SumInts.exe.config
+H:\C#\Chapter5\SumInts\bin\Debug\SumInts.exe
+H:\C#\Chapter5\SumInts\bin\Debug\SumInts.pdb
+H:\C#\Chapter5\SumInts\obj\Debug\SumInts.csprojResolveAssemblyReference.cache
+H:\C#\Chapter5\SumInts\obj\Debug\SumInts.exe
+H:\C#\Chapter5\SumInts\obj\Debug\SumInts.pdb

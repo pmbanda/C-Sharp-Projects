@@ -1,0 +1,6 @@
+H:\C#\Chapter5\TippingTable3\bin\Debug\TippingTable3.exe.config
+H:\C#\Chapter5\TippingTable3\bin\Debug\TippingTable3.exe
+H:\C#\Chapter5\TippingTable3\bin\Debug\TippingTable3.pdb
+H:\C#\Chapter5\TippingTable3\obj\Debug\TippingTable3.csprojResolveAssemblyReference.cache
+H:\C#\Chapter5\TippingTable3\obj\Debug\TippingTable3.exe
+H:\C#\Chapter5\TippingTable3\obj\Debug\TippingTable3.pdb

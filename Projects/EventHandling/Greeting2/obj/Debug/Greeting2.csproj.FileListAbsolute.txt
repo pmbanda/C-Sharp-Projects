@@ -1,0 +1,6 @@
+H:\C#\Projects\EventHandling\Greeting2\bin\Debug\Greeting2.exe.config
+H:\C#\Projects\EventHandling\Greeting2\bin\Debug\Greeting2.exe
+H:\C#\Projects\EventHandling\Greeting2\bin\Debug\Greeting2.pdb
+H:\C#\Projects\EventHandling\Greeting2\obj\Debug\Greeting2.csprojResolveAssemblyReference.cache
+H:\C#\Projects\EventHandling\Greeting2\obj\Debug\Greeting2.exe
+H:\C#\Projects\EventHandling\Greeting2\obj\Debug\Greeting2.pdb

@@ -1,0 +1,9 @@
+H:\C#\Chapter13\RecentlyVisitedSites\bin\Debug\VisitedSites.exe.config
+H:\C#\Chapter13\RecentlyVisitedSites\obj\Debug\VisitedSites.exe
+H:\C#\Chapter13\RecentlyVisitedSites\obj\Debug\VisitedSites.pdb
+H:\C#\Chapter13\RecentlyVisitedSites\bin\Debug\VisitedSites.exe
+H:\C#\Chapter13\RecentlyVisitedSites\bin\Debug\VisitedSites.pdb
+H:\C#\Chapter13\RecentlyVisitedSites\obj\Debug\RecentlyVisitedSites.csprojResolveAssemblyReference.cache
+H:\C#\Chapter13\RecentlyVisitedSites\obj\Debug\VisitedSites.frmRecentlyVisitedSites.resources
+H:\C#\Chapter13\RecentlyVisitedSites\obj\Debug\VisitedSites.Properties.Resources.resources
+H:\C#\Chapter13\RecentlyVisitedSites\obj\Debug\RecentlyVisitedSites.csproj.GenerateResource.Cache

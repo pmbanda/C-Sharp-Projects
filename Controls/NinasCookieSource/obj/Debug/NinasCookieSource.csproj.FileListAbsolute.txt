@@ -1,0 +1,12 @@
+H:\C#\Chapter12\NinasCookieSource\bin\Debug\NinasCookieSource.exe.config
+H:\C#\Chapter12\NinasCookieSource\bin\Debug\NinasCookieSource.exe
+H:\C#\Chapter12\NinasCookieSource\bin\Debug\NinasCookieSource.pdb
+H:\C#\Chapter12\NinasCookieSource\obj\Debug\NinasCookieSource.csprojResolveAssemblyReference.cache
+H:\C#\Chapter12\NinasCookieSource\obj\Debug\NinasCookieSource.frmCookiesource.resources
+H:\C#\Chapter12\NinasCookieSource\obj\Debug\NinasCookieSource.Properties.Resources.resources
+H:\C#\Chapter12\NinasCookieSource\obj\Debug\NinasCookieSource.csproj.GenerateResource.Cache
+H:\C#\Chapter12\NinasCookieSource\obj\Debug\NinasCookieSource.exe
+H:\C#\Chapter12\NinasCookieSource\obj\Debug\NinasCookieSource.pdb
+E:\Ujah\C#\Chapter12\NinasCookieSource\bin\Debug\NinasCookieSource.exe.config
+E:\Ujah\C#\Chapter12\NinasCookieSource\obj\Debug\NinasCookieSource.exe
+E:\Ujah\C#\Chapter12\NinasCookieSource\obj\Debug\NinasCookieSource.pdb

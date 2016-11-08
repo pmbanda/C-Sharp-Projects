@@ -1,0 +1,5 @@
+H:\C#\Projects\SortAndReverse\bin\Debug\SortAndReverse.exe.config
+H:\C#\Projects\SortAndReverse\bin\Debug\SortAndReverse.exe
+H:\C#\Projects\SortAndReverse\bin\Debug\SortAndReverse.pdb
+H:\C#\Projects\SortAndReverse\obj\Debug\SortAndReverse.exe
+H:\C#\Projects\SortAndReverse\obj\Debug\SortAndReverse.pdb

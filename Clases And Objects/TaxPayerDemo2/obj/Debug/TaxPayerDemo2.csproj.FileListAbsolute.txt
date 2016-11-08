@@ -1,0 +1,6 @@
+H:\C#\Chapter9\TaxPayerDemo2\bin\Debug\TaxPayerDemo2.exe.config
+H:\C#\Chapter9\TaxPayerDemo2\bin\Debug\TaxPayerDemo2.exe
+H:\C#\Chapter9\TaxPayerDemo2\bin\Debug\TaxPayerDemo2.pdb
+H:\C#\Chapter9\TaxPayerDemo2\obj\Debug\TaxPayerDemo2.csprojResolveAssemblyReference.cache
+H:\C#\Chapter9\TaxPayerDemo2\obj\Debug\TaxPayerDemo2.exe
+H:\C#\Chapter9\TaxPayerDemo2\obj\Debug\TaxPayerDemo2.pdb

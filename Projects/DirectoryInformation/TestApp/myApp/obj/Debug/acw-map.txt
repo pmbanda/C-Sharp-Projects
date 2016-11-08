@@ -1,0 +1,4 @@
+myApp.MainActivity, myApp;md5e171cced4429318daa19bc833e61c5c4.MainActivity
+myApp.MainActivity, myApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e171cced4429318daa19bc833e61c5c4.MainActivity
+myApp.MainActivity;md5e171cced4429318daa19bc833e61c5c4.MainActivity
+myapp.MainActivity;md5e171cced4429318daa19bc833e61c5c4.MainActivity

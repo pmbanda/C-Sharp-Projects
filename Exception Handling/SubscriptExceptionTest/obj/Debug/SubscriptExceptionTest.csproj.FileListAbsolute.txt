@@ -1,0 +1,6 @@
+H:\C#\Chapter11\SubscriptExceptionTest\bin\Debug\SubscriptExceptionTest.exe.config
+H:\C#\Chapter11\SubscriptExceptionTest\bin\Debug\SubscriptExceptionTest.exe
+H:\C#\Chapter11\SubscriptExceptionTest\bin\Debug\SubscriptExceptionTest.pdb
+H:\C#\Chapter11\SubscriptExceptionTest\obj\Debug\SubscriptExceptionTest.csprojResolveAssemblyReference.cache
+H:\C#\Chapter11\SubscriptExceptionTest\obj\Debug\SubscriptExceptionTest.exe
+H:\C#\Chapter11\SubscriptExceptionTest\obj\Debug\SubscriptExceptionTest.pdb

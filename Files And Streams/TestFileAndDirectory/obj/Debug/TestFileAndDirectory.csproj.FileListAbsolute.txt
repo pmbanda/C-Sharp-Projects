@@ -1,0 +1,6 @@
+H:\C#\Chapter14\TestFileAndDirectory\bin\Debug\TestFileAndDirectory.exe.config
+H:\C#\Chapter14\TestFileAndDirectory\bin\Debug\TestFileAndDirectory.exe
+H:\C#\Chapter14\TestFileAndDirectory\bin\Debug\TestFileAndDirectory.pdb
+H:\C#\Chapter14\TestFileAndDirectory\obj\Debug\TestFileAndDirectory.csprojResolveAssemblyReference.cache
+H:\C#\Chapter14\TestFileAndDirectory\obj\Debug\TestFileAndDirectory.exe
+H:\C#\Chapter14\TestFileAndDirectory\obj\Debug\TestFileAndDirectory.pdb

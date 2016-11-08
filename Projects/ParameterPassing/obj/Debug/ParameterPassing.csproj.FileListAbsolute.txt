@@ -1,0 +1,6 @@
+H:\C#\Projects\ParameterPassing\bin\Debug\ParameterPassing.exe.config
+H:\C#\Projects\ParameterPassing\bin\Debug\ParameterPassing.exe
+H:\C#\Projects\ParameterPassing\bin\Debug\ParameterPassing.pdb
+H:\C#\Projects\ParameterPassing\obj\Debug\ParameterPassing.csprojResolveAssemblyReference.cache
+H:\C#\Projects\ParameterPassing\obj\Debug\ParameterPassing.exe
+H:\C#\Projects\ParameterPassing\obj\Debug\ParameterPassing.pdb

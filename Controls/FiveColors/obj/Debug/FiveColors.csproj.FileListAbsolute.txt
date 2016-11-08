@@ -1,0 +1,9 @@
+H:\C#\Chapter12\FiveColors\bin\Debug\FiveColors.exe.config
+H:\C#\Chapter12\FiveColors\bin\Debug\FiveColors.exe
+H:\C#\Chapter12\FiveColors\bin\Debug\FiveColors.pdb
+H:\C#\Chapter12\FiveColors\obj\Debug\FiveColors.csprojResolveAssemblyReference.cache
+H:\C#\Chapter12\FiveColors\obj\Debug\FiveColors.frmColor.resources
+H:\C#\Chapter12\FiveColors\obj\Debug\FiveColors.Properties.Resources.resources
+H:\C#\Chapter12\FiveColors\obj\Debug\FiveColors.csproj.GenerateResource.Cache
+H:\C#\Chapter12\FiveColors\obj\Debug\FiveColors.exe
+H:\C#\Chapter12\FiveColors\obj\Debug\FiveColors.pdb

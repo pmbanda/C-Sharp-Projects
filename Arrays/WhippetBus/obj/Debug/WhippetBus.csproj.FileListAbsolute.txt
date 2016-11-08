@@ -1,0 +1,6 @@
+H:\C#\Chapter6\WhippetBus\bin\Debug\WhippetBus.exe.config
+H:\C#\Chapter6\WhippetBus\bin\Debug\WhippetBus.exe
+H:\C#\Chapter6\WhippetBus\bin\Debug\WhippetBus.pdb
+H:\C#\Chapter6\WhippetBus\obj\Debug\WhippetBus.csprojResolveAssemblyReference.cache
+H:\C#\Chapter6\WhippetBus\obj\Debug\WhippetBus.exe
+H:\C#\Chapter6\WhippetBus\obj\Debug\WhippetBus.pdb

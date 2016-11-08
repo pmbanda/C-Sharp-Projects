@@ -1,0 +1,9 @@
+H:\C#\Chapter4\GuessingGame\bin\Debug\GuessingGame.exe.config
+H:\C#\Chapter4\GuessingGame\bin\Debug\GuessingGame.exe
+H:\C#\Chapter4\GuessingGame\bin\Debug\GuessingGame.pdb
+H:\C#\Chapter4\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache
+H:\C#\Chapter4\GuessingGame\obj\Debug\GuessingGame.myForm.resources
+H:\C#\Chapter4\GuessingGame\obj\Debug\GuessingGame.Properties.Resources.resources
+H:\C#\Chapter4\GuessingGame\obj\Debug\GuessingGame.csproj.GenerateResource.Cache
+H:\C#\Chapter4\GuessingGame\obj\Debug\GuessingGame.exe
+H:\C#\Chapter4\GuessingGame\obj\Debug\GuessingGame.pdb

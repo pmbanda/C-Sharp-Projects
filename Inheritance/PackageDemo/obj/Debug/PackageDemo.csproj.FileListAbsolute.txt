@@ -1,0 +1,6 @@
+H:\C#\Chapter10\PackageDemo\bin\Debug\PackageDemo.exe.config
+H:\C#\Chapter10\PackageDemo\bin\Debug\PackageDemo.exe
+H:\C#\Chapter10\PackageDemo\bin\Debug\PackageDemo.pdb
+H:\C#\Chapter10\PackageDemo\obj\Debug\PackageDemo.csprojResolveAssemblyReference.cache
+H:\C#\Chapter10\PackageDemo\obj\Debug\PackageDemo.exe
+H:\C#\Chapter10\PackageDemo\obj\Debug\PackageDemo.pdb

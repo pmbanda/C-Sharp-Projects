@@ -1,0 +1,6 @@
+H:\C#\Projects\EmployeesReadOnlyDemo\bin\Debug\EmployeesReadOnlyDemo.exe.config
+H:\C#\Projects\EmployeesReadOnlyDemo\bin\Debug\EmployeesReadOnlyDemo.exe
+H:\C#\Projects\EmployeesReadOnlyDemo\bin\Debug\EmployeesReadOnlyDemo.pdb
+H:\C#\Projects\EmployeesReadOnlyDemo\obj\Debug\EmployeesReadOnlyDemo.csprojResolveAssemblyReference.cache
+H:\C#\Projects\EmployeesReadOnlyDemo\obj\Debug\EmployeesReadOnlyDemo.exe
+H:\C#\Projects\EmployeesReadOnlyDemo\obj\Debug\EmployeesReadOnlyDemo.pdb

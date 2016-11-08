@@ -1,0 +1,6 @@
+H:\C#\Projects\ComposedDel\bin\Debug\ComposedDel.exe.config
+H:\C#\Projects\ComposedDel\bin\Debug\ComposedDel.exe
+H:\C#\Projects\ComposedDel\bin\Debug\ComposedDel.pdb
+H:\C#\Projects\ComposedDel\obj\Debug\ComposedDel.csprojResolveAssemblyReference.cache
+H:\C#\Projects\ComposedDel\obj\Debug\ComposedDel.exe
+H:\C#\Projects\ComposedDel\obj\Debug\ComposedDel.pdb

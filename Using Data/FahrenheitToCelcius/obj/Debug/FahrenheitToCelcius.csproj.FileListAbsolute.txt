@@ -1,0 +1,6 @@
+H:\C#\Chapter2\FahrenheitToCelcius\bin\Debug\FahrenheitToCelcius.exe.config
+H:\C#\Chapter2\FahrenheitToCelcius\bin\Debug\FahrenheitToCelcius.exe
+H:\C#\Chapter2\FahrenheitToCelcius\bin\Debug\FahrenheitToCelcius.pdb
+H:\C#\Chapter2\FahrenheitToCelcius\obj\Debug\FahrenheitToCelcius.exe
+H:\C#\Chapter2\FahrenheitToCelcius\obj\Debug\FahrenheitToCelcius.pdb
+H:\C#\Chapter2\FahrenheitToCelcius\obj\Debug\FahrenheitToCelcius.csprojResolveAssemblyReference.cache

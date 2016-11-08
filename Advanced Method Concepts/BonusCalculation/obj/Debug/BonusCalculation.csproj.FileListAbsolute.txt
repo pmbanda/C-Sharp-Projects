@@ -1,0 +1,6 @@
+H:\C#\Chapter8\BonusCalculation\bin\Debug\BonusCalculation.exe.config
+H:\C#\Chapter8\BonusCalculation\bin\Debug\BonusCalculation.exe
+H:\C#\Chapter8\BonusCalculation\bin\Debug\BonusCalculation.pdb
+H:\C#\Chapter8\BonusCalculation\obj\Debug\BonusCalculation.csprojResolveAssemblyReference.cache
+H:\C#\Chapter8\BonusCalculation\obj\Debug\BonusCalculation.exe
+H:\C#\Chapter8\BonusCalculation\obj\Debug\BonusCalculation.pdb

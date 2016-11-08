@@ -1,0 +1,6 @@
+H:\C#\Chapter9\ConferenceDemo\bin\Debug\ConferenceDemo.exe.config
+H:\C#\Chapter9\ConferenceDemo\obj\Debug\ConferenceDemo.csprojResolveAssemblyReference.cache
+H:\C#\Chapter9\ConferenceDemo\bin\Debug\ConferenceDemo.exe
+H:\C#\Chapter9\ConferenceDemo\bin\Debug\ConferenceDemo.pdb
+H:\C#\Chapter9\ConferenceDemo\obj\Debug\ConferenceDemo.exe
+H:\C#\Chapter9\ConferenceDemo\obj\Debug\ConferenceDemo.pdb

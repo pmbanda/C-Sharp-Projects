@@ -1,0 +1,5 @@
+H:\C#\Projects\ReadNameFile\bin\Debug\ReadNameFile.exe.config
+H:\C#\Projects\ReadNameFile\bin\Debug\ReadNameFile.exe
+H:\C#\Projects\ReadNameFile\bin\Debug\ReadNameFile.pdb
+H:\C#\Projects\ReadNameFile\obj\Debug\ReadNameFile.exe
+H:\C#\Projects\ReadNameFile\obj\Debug\ReadNameFile.pdb

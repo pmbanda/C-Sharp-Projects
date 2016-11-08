@@ -1,0 +1,6 @@
+H:\C#\Chapter10\ShapesDemo\bin\Debug\ShapesDemo.exe.config
+H:\C#\Chapter10\ShapesDemo\bin\Debug\ShapesDemo.exe
+H:\C#\Chapter10\ShapesDemo\bin\Debug\ShapesDemo.pdb
+H:\C#\Chapter10\ShapesDemo\obj\Debug\ShapesDemo.csprojResolveAssemblyReference.cache
+H:\C#\Chapter10\ShapesDemo\obj\Debug\ShapesDemo.exe
+H:\C#\Chapter10\ShapesDemo\obj\Debug\ShapesDemo.pdb

@@ -1,0 +1,9 @@
+H:\C#\Projects\EventHandling\EventBegin\bin\Debug\EventBegin.exe.config
+H:\C#\Projects\EventHandling\EventBegin\bin\Debug\EventBegin.exe
+H:\C#\Projects\EventHandling\EventBegin\bin\Debug\EventBegin.pdb
+H:\C#\Projects\EventHandling\EventBegin\obj\Debug\EventBegin.csprojResolveAssemblyReference.cache
+H:\C#\Projects\EventHandling\EventBegin\obj\Debug\EventBegin.FormBegin.resources
+H:\C#\Projects\EventHandling\EventBegin\obj\Debug\EventBegin.Properties.Resources.resources
+H:\C#\Projects\EventHandling\EventBegin\obj\Debug\EventBegin.csproj.GenerateResource.Cache
+H:\C#\Projects\EventHandling\EventBegin\obj\Debug\EventBegin.exe
+H:\C#\Projects\EventHandling\EventBegin\obj\Debug\EventBegin.pdb

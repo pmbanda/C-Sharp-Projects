@@ -1,0 +1,6 @@
+H:\C#\Chapter7\AdmissionModularized\bin\Debug\AdmissionModularized.exe.config
+H:\C#\Chapter7\AdmissionModularized\bin\Debug\AdmissionModularized.exe
+H:\C#\Chapter7\AdmissionModularized\bin\Debug\AdmissionModularized.pdb
+H:\C#\Chapter7\AdmissionModularized\obj\Debug\AdmissionModularized.csprojResolveAssemblyReference.cache
+H:\C#\Chapter7\AdmissionModularized\obj\Debug\AdmissionModularized.exe
+H:\C#\Chapter7\AdmissionModularized\obj\Debug\AdmissionModularized.pdb

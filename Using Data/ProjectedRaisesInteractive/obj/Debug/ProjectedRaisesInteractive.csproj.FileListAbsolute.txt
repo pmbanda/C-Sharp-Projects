@@ -1,0 +1,5 @@
+H:\C#\Chapter2\ProjectedRaisesInteractive\bin\Debug\ProjectedRaisesInteractive.exe.config
+H:\C#\Chapter2\ProjectedRaisesInteractive\bin\Debug\ProjectedRaisesInteractive.exe
+H:\C#\Chapter2\ProjectedRaisesInteractive\bin\Debug\ProjectedRaisesInteractive.pdb
+H:\C#\Chapter2\ProjectedRaisesInteractive\obj\Debug\ProjectedRaisesInteractive.exe
+H:\C#\Chapter2\ProjectedRaisesInteractive\obj\Debug\ProjectedRaisesInteractive.pdb
