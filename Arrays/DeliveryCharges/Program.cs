@@ -37,7 +37,7 @@ namespace DeliveryCharges
                 
             }
 
-            //if the zip code does not match display the message
+            // if the zip code does not match display the message
             if(!exist)
                 WriteLine("Company does NOT deliver to zipcode ");
             

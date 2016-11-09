@@ -4,3 +4,9 @@ H:\C#\Chapter6\WhippetBus\bin\Debug\WhippetBus.pdb
 H:\C#\Chapter6\WhippetBus\obj\Debug\WhippetBus.csprojResolveAssemblyReference.cache
 H:\C#\Chapter6\WhippetBus\obj\Debug\WhippetBus.exe
 H:\C#\Chapter6\WhippetBus\obj\Debug\WhippetBus.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\WhippetBus\bin\Debug\WhippetBus.exe.config
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\WhippetBus\obj\Debug\WhippetBus.exe
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\WhippetBus\obj\Debug\WhippetBus.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\WhippetBus\bin\Debug\WhippetBus.exe
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\WhippetBus\bin\Debug\WhippetBus.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\WhippetBus\obj\Debug\WhippetBus.csprojResolveAssemblyReference.cache
