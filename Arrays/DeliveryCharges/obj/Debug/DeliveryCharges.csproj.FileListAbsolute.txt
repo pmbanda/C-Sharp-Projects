@@ -4,3 +4,9 @@ H:\C#\Chapter6\DeliveryCharges\bin\Debug\DeliveryCharges.pdb
 H:\C#\Chapter6\DeliveryCharges\obj\Debug\DeliveryCharges.exe
 H:\C#\Chapter6\DeliveryCharges\obj\Debug\DeliveryCharges.pdb
 H:\C#\Chapter6\DeliveryCharges\obj\Debug\DeliveryCharges.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\DeliveryCharges\bin\Debug\DeliveryCharges.exe.config
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\DeliveryCharges\obj\Debug\DeliveryCharges.exe
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\DeliveryCharges\obj\Debug\DeliveryCharges.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\DeliveryCharges\bin\Debug\DeliveryCharges.exe
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\DeliveryCharges\bin\Debug\DeliveryCharges.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\DeliveryCharges\obj\Debug\DeliveryCharges.csprojResolveAssemblyReference.cache
