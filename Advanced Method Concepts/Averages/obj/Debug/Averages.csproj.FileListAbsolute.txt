@@ -4,3 +4,9 @@ H:\C#\Chapter8\Averages\bin\Debug\Averages.pdb
 H:\C#\Chapter8\Averages\obj\Debug\Averages.csprojResolveAssemblyReference.cache
 H:\C#\Chapter8\Averages\obj\Debug\Averages.exe
 H:\C#\Chapter8\Averages\obj\Debug\Averages.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\Averages\bin\Debug\Averages.exe.config
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\Averages\obj\Debug\Averages.exe
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\Averages\obj\Debug\Averages.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\Averages\bin\Debug\Averages.exe
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\Averages\bin\Debug\Averages.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\Averages\obj\Debug\Averages.csprojResolveAssemblyReference.cache

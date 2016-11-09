@@ -13,36 +13,41 @@ namespace Averages
     {
         static void Main(string[] args)
         {
+            // initialize array
             int[] arrayNum = { 12, 85, 76, 122, 568 };
-            //insert the number of arguments as integers
-            Console.WriteLine("Four numbers passed: ");
+
+            /*
+                pass numbers in the average method 
+                with different arguments
+            */
+
             average(10, 100, 20, 300);
-            Console.WriteLine();
-            Console.WriteLine("Three numbers passed: ");
-            average(1, 22, 10);//as less integers
-            Console.WriteLine();
-            Console.WriteLine("Array  of numbers passed: ");
-            average(arrayNum);//as array
+
+            average(1, 22, 10);
+
+            average(arrayNum);
 
             Console.ReadLine();
         }
 
         static void average(params int [] numbers )
         {
-            //declare sum to accumulate the total
+            // declare sum variable to accumulate the total 
             double sum = 0;
             double average = 0;
 
-            Console.Write("The average of >> ");
+            Console.Write("The average of >> " + numbers.Length + " Numbers\n");
             //iterate through the arrays
             foreach (int item in numbers)
             {
-                Console.Write("{0} ", item);
-                sum += item;//populate the sum variable with the number in array
+                // display numbers
+                Console.Write("{0} ", item );
+                sum += item;
             }
-            Console.WriteLine();
-            average = (sum / numbers.Length);//calculate the average
-            Console.WriteLine("The average is " + average.ToString("F"));//display the average
+
+
+            average = Convert.ToDouble((sum / numbers.Length));//calculate the average
+            Console.WriteLine(" is " + average.ToString("F") + "\n");//display the average
         }
     }
 }
