@@ -4,3 +4,9 @@ H:\C#\Chapter8\Reverse4\bin\Debug\Reverse4.pdb
 H:\C#\Chapter8\Reverse4\obj\Debug\Reverse4.csprojResolveAssemblyReference.cache
 H:\C#\Chapter8\Reverse4\obj\Debug\Reverse4.exe
 H:\C#\Chapter8\Reverse4\obj\Debug\Reverse4.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\Reverse4\bin\Debug\Reverse4.exe.config
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\Reverse4\obj\Debug\Reverse4.exe
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\Reverse4\obj\Debug\Reverse4.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\Reverse4\bin\Debug\Reverse4.exe
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\Reverse4\bin\Debug\Reverse4.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\Reverse4\obj\Debug\Reverse4.csprojResolveAssemblyReference.cache
