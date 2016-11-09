@@ -4,3 +4,9 @@ H:\C#\Chapter6\ArrayDemo\bin\Debug\ArrayDemo.pdb
 H:\C#\Chapter6\ArrayDemo\obj\Debug\ArrayDemo.csprojResolveAssemblyReference.cache
 H:\C#\Chapter6\ArrayDemo\obj\Debug\ArrayDemo.exe
 H:\C#\Chapter6\ArrayDemo\obj\Debug\ArrayDemo.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\ArrayDemo\bin\Debug\ArrayDemo.exe.config
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\ArrayDemo\obj\Debug\ArrayDemo.exe
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\ArrayDemo\obj\Debug\ArrayDemo.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\ArrayDemo\bin\Debug\ArrayDemo.exe
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\ArrayDemo\bin\Debug\ArrayDemo.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\ArrayDemo\obj\Debug\ArrayDemo.csprojResolveAssemblyReference.cache
