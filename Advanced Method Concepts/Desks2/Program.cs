@@ -12,7 +12,7 @@ namespace Desks2
 {
     class Program
     {
-        //declaration of fixed wood prices
+        // declaration of fixed wood prices
         const double PINE = 100;
         const double OAK = 140;
         const double OTHER = 180;
@@ -20,36 +20,40 @@ namespace Desks2
 
         static void Main(string[] args)
         {
-            //define local variables in main
+            // define local variables in main
             int numDrawers;
             string typeWood;
             double totalCost;
 
-            //invoke methods for number of drawers
-            //type of wood and the total cost
+            /* 
+                invoke methods for number of drawers
+                type of wood and the total cost
+            */
             DrawersInput(out numDrawers);
             WoodType(out typeWood);
+
             WriteLine();
-            //insert arguments with last out reference to be assigned to total cost
+
+            // insert arguments with last out reference to be assigned to total cost
             Cost(ref numDrawers, ref typeWood, out totalCost);
 
-            DisplayDetails(ref numDrawers, ref typeWood, ref totalCost);//invoke method to display all the details
-
+            // invoke method to display all the details
+            DisplayDetails(ref numDrawers, ref typeWood, ref totalCost);
             ReadLine();
         }
         static void DrawersInput(out int drawers)
         {
-            //promt the user for the number of desks entry
+            // prompt user for the number of drawers 
             Write("Enter the number of drawers: ");
             drawers = Convert.ToInt32(ReadLine());
         }
         static void WoodType(out string woodType)
         {
-            //local variable
+            // create local variables
             char wood;
             woodType = "";
 
-            //promt the user for the number of desks entry
+            // prompt the user for the number of desks entry
             Write("Enter the type of wood either (m o or p) : ");
             wood = Char.ToLower(Convert.ToChar(ReadLine()));
 
@@ -60,12 +64,13 @@ namespace Desks2
             else if (wood == 'p')
                 woodType = "Pine";
         }
+
         static void Cost(ref int numberOfDrawers, ref string typeOfWood, out double totalCost)
         {
-            //declaration of the price variable to hold the final cost
+            // declaration of the price variable to hold the final cost
             totalCost = 0;
 
-            //select ststements to calulate cost based on the wood type
+            // select statements to calulate cost based on the wood type
             if (typeOfWood.Equals("Pine"))
                 totalCost = (PINE * numberOfDrawers) + (SURCHARGE * numberOfDrawers);
             else if (typeOfWood.Equals("Oak"))
@@ -76,7 +81,7 @@ namespace Desks2
         }
         static void DisplayDetails(ref int numDrawers, ref string typeWood, ref double totalCost)
         {
-            //method to display all the details and the final price
+            // method to display all the details and the final price
             WriteLine("Wood Type >> {0} ", typeWood);
             WriteLine("Number of drawers >> {0} ", numDrawers.ToString("D"));
             WriteLine("Total cost >> {0} ", totalCost.ToString("C"));
