@@ -12,28 +12,29 @@ namespace CheckZips
     {
         static void Main(string[] args)
         {
-            //initialize the zip codes in the array
-            int[] zipCodes = new int[]{ 73120, 74142, 75642, 76534, 72341, 75643, 76523, 75684, 75553, 76635  };
+            // initialize the zip codes in the array
+            int[] zipCodes = new int[] { 73120, 74142, 75642, 76534, 72341, 75643, 76523, 75684, 75553, 76635  };
 
-            //prompt the user to enter zip code
+            // prompt the user to enter zip code
             WriteLine("Enter zip code");
             int zipEntry = Convert.ToInt32(ReadLine());
 
-            WriteLine();//empty space
+            // empty space
+            WriteLine();
 
             for (int i = 0; i < zipCodes.Length; ++i)
             {
                 if (zipEntry == zipCodes[i])
                 {
-                    //if zip code matches display the message
+                    // if zip code matches display the message
                     WriteLine("Zip code exists in delivery area ");
-                    break;
+                    Environment.Exit(0);
                 }
                 else
                 {
-                    //if the zip code does not match display the message
+                    // if the zip code does not match display the message
                     WriteLine("Zip code does NOT exists in delivery area ");
-                    break;
+                    Environment.Exit(0);
                 }
             }
 
