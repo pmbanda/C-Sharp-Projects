@@ -4,3 +4,6 @@ H:\C#\Chapter8\Desks2\bin\Debug\Desks2.pdb
 H:\C#\Chapter8\Desks2\obj\Debug\Desks2.csprojResolveAssemblyReference.cache
 H:\C#\Chapter8\Desks2\obj\Debug\Desks2.exe
 H:\C#\Chapter8\Desks2\obj\Debug\Desks2.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\Desks2\bin\Debug\Desks2.exe.config
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\Desks2\obj\Debug\Desks2.exe
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\Desks2\obj\Debug\Desks2.pdb
