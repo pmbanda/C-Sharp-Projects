@@ -4,3 +4,9 @@ H:\C#\Chapter6\ChatAWhile\bin\Debug\ChatAWhile.pdb
 H:\C#\Chapter6\ChatAWhile\obj\Debug\ChatAWhile.csprojResolveAssemblyReference.cache
 H:\C#\Chapter6\ChatAWhile\obj\Debug\ChatAWhile.exe
 H:\C#\Chapter6\ChatAWhile\obj\Debug\ChatAWhile.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\ChatAWhile\bin\Debug\ChatAWhile.exe.config
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\ChatAWhile\obj\Debug\ChatAWhile.exe
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\ChatAWhile\obj\Debug\ChatAWhile.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\ChatAWhile\obj\Debug\ChatAWhile.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\ChatAWhile\bin\Debug\ChatAWhile.exe
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\ChatAWhile\bin\Debug\ChatAWhile.pdb

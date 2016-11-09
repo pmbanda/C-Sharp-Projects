@@ -4,3 +4,6 @@ H:\C#\Chapter6\CheckZips\bin\Debug\CheckZips.pdb
 H:\C#\Chapter6\CheckZips\obj\Debug\CheckZips.csprojResolveAssemblyReference.cache
 H:\C#\Chapter6\CheckZips\obj\Debug\CheckZips.exe
 H:\C#\Chapter6\CheckZips\obj\Debug\CheckZips.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\CheckZips\bin\Debug\CheckZips.exe.config
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\CheckZips\obj\Debug\CheckZips.exe
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Arrays\CheckZips\obj\Debug\CheckZips.pdb
