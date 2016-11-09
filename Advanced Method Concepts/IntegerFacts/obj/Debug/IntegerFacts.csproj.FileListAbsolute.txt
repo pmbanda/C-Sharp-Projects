@@ -7,3 +7,6 @@ H:\C#\Chapter8\IntegerFacts\obj\Debug\IntegerFacts.pdb
 C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\IntegerFacts\bin\Debug\IntegerFacts.exe.config
 C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\IntegerFacts\obj\Debug\IntegerFacts.exe
 C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\IntegerFacts\obj\Debug\IntegerFacts.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\IntegerFacts\bin\Debug\IntegerFacts.exe
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\IntegerFacts\bin\Debug\IntegerFacts.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\IntegerFacts\obj\Debug\IntegerFacts.csprojResolveAssemblyReference.cache

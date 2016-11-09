@@ -3,3 +3,8 @@ H:\C#\Chapter8\Movie\bin\Debug\Movie.exe
 H:\C#\Chapter8\Movie\bin\Debug\Movie.pdb
 H:\C#\Chapter8\Movie\obj\Debug\Movie.exe
 H:\C#\Chapter8\Movie\obj\Debug\Movie.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\Movie\bin\Debug\Movie.exe.config
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\Movie\obj\Debug\Movie.exe
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\Movie\obj\Debug\Movie.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\Movie\bin\Debug\Movie.exe
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Advanced Method Concepts\Movie\bin\Debug\Movie.pdb

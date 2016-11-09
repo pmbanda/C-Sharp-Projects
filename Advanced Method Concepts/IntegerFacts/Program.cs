@@ -12,29 +12,39 @@ namespace IntegerFacts
 {
     class Program
     {
-            //total size of array
-            const int SIZE = 20;
-            static int[] numArray = new int[SIZE];//array declaration
-            const int FIRST_ARRAY_POSITION = 0;//arrays first index
-            const int LAST_ARRAY_POSITION = SIZE - 1;//arrays last index
+        /*
+            decare total size of array
+            and obtain first index last index
+        */
+        const int SIZE = 20;    
+        static int[] numArray = new int[SIZE];
+        const int FIRST_ARRAY_POSITION = 0;
+        const int LAST_ARRAY_POSITION = SIZE - 1;
 
         static void Main(string[] args)
         {
-            //variable declaration
-            int num, highestValue, lowestValue, sum;
-            double average;
+            // variable declaration
+            int num, highestValue, lowestValue;
+            double sum, average;
 
-            Random r = new Random();//implement the random number class
+            // implement the random number class
+            Random r = new Random();
 
-            //iterate through the array to populate random number in the array
+            // iterate through the array to populate random number in the array
             for (int i = 0; i < numArray.Length; ++i)
             {
-                num = r.Next(1, 999);//obtain random number
-                numArray[i] = num;//populate the values in the array 
+                /*
+                    obtain random number and populate
+                    the array.
+                */
+                num = r.Next(1, 999);
+                numArray[i] = num;
             }
+
             Console.WriteLine("Numbers in the Array: ");
             DisplayArray(numArray);
-            //invoke method call that assigns values at the method level using output reference
+
+            // invoke method call that assigns values at the method level using output reference
             Calculations(out highestValue, out lowestValue, out sum, out average);
 
             Console.WriteLine();
@@ -49,25 +59,32 @@ namespace IntegerFacts
 
         }
 
-        static void Calculations(out int highestValue, out int lowestValue, out int sum, out double average)
+        static void Calculations(out int highestValue, out int lowestValue, out double sum, out double average)
         {
-            sum = 0;//initial sum variable number 
-            average = 0.0;//initial average variable number
+            // initial sum variable number
+            // initial average variable number
+            sum = 0; 
+            average = 0.0;
 
-            Array.Sort(numArray);//sort the array in ascending order
-            highestValue = numArray[LAST_ARRAY_POSITION];//assign last array value to the high value variable
-            lowestValue = numArray[FIRST_ARRAY_POSITION];//assign first array value to the lowest value variable
+            //sort the array in ascending order
+            Array.Sort(numArray);
 
-            //iterate over the array to accumulate the sum of all the array numbers 
+            // assign last array value to the high value variable
+            // assign first array value to the lowest value variable
+            highestValue = numArray[LAST_ARRAY_POSITION];
+            lowestValue = numArray[FIRST_ARRAY_POSITION];
+
+            // iterate over the array to accumulate the sum of all the array numbers 
             for (int i = 0; i < numArray.Length; ++i)
                 sum += numArray[i];
 
-            average = sum / SIZE;//obtain the average by dividing the sum by the array size
+            // obtain the average by dividing the sum by the array size
+            average = sum / SIZE;
 
         }
         static void DisplayArray(params int [] array )
         {
-            //iterate through the array to display the values 
+            // iterate through the array to display the values 
             for (int i = 0; i < array.Length; ++i)
                 Console.Write( array[i] + " ");
             Console.WriteLine();
