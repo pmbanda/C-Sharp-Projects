@@ -15,9 +15,9 @@ namespace WhippetBus
             int subscript;
             double price = 0;
            
-            double[] ticket_price = new double[] { 25.00,  40.00,  55.00,   70.00 };
+            double[] ticket_price = new double[] { 25.00,  40.00,  55.00,  70.00 };
             // declare distance in miles array
-            int []distance_in_miles = new int[]  {    0 ,   100,   300,     500 };
+            int []distance_in_miles = new int[]  {    0 ,   100,   300,    500 };
 
             // enter the trip distance
             Write("Enter the trip distance: ");

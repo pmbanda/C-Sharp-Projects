@@ -3,3 +3,6 @@ H:\C#\Chapter5\DisplayMultiplicationTable\bin\Debug\DisplayMultiplicationTable.e
 H:\C#\Chapter5\DisplayMultiplicationTable\bin\Debug\DisplayMultiplicationTable.pdb
 H:\C#\Chapter5\DisplayMultiplicationTable\obj\Debug\DisplayMultiplicationTable.exe
 H:\C#\Chapter5\DisplayMultiplicationTable\obj\Debug\DisplayMultiplicationTable.pdb
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Loops\DisplayMultiplicationTable\bin\Debug\DisplayMultiplicationTable.exe.config
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Loops\DisplayMultiplicationTable\obj\Debug\DisplayMultiplicationTable.exe
+C:\Users\Peter\Documents\C# Programming\C-Sharp-Projects\Loops\DisplayMultiplicationTable\obj\Debug\DisplayMultiplicationTable.pdb
